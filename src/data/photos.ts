@@ -9,12 +9,12 @@
 //   4) 사진 개수를 늘리거나 줄이고 싶다면, import 줄과 배열의
 //      객체({ src, caption })를 통째로 추가/삭제하면 됩니다.
 
-import gallery1 from '../assets/photos/gallery-1.svg'
-import gallery2 from '../assets/photos/gallery-2.svg'
-import gallery3 from '../assets/photos/gallery-3.svg'
-import gallery4 from '../assets/photos/gallery-4.svg'
-import gallery5 from '../assets/photos/gallery-5.svg'
-import gallery6 from '../assets/photos/gallery-6.svg'
+import gallery1 from '../assets/photos/gallery1.jpg'
+import gallery2 from '../assets/photos/gallery2.jpg'
+import gallery3 from '../assets/photos/gallery3.jpg'
+import gallery4 from '../assets/photos/gallery4.jpg'
+import gallery5 from '../assets/photos/gallery5.jpg'
+import gallery6 from '../assets/photos/gallery6.jpg'
 
 export interface GalleryPhoto {
   /** 사진 파일 (위에서 import 한 것을 그대로 연결) */
