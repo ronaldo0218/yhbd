@@ -28,7 +28,7 @@ export const galleryPhotos: GalleryPhoto[] = [
   { src: gallery1, caption: '여기에 사진 설명을 입력하세요 (1)' },
   { src: gallery2, caption: '여기에 사진 설명을 입력하세요 (2)' },
   { src: gallery3, caption: '여기에 사진 설명을 입력하세요 (3)' },
-  { src: gallery4, caption: '여기에 사진 설명을 입력하세요 (4)' },
-  { src: gallery5, caption: '여기에 사진 설명을 입력하세요 (5)' },
+  { src: gallery4, caption: '처음으로 같이 간 부산 여행' },
+  { src: gallery5, caption: '전역 기념 전주 여행' },
   { src: gallery6, caption: '여기에 사진 설명을 입력하세요 (6)' },
 ]
