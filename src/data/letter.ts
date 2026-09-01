@@ -21,11 +21,8 @@ export const letterLines: string[] = [
   '그리고 또 오늘은 애기 생일이니께 맛난 거 많이 먹고 재밌게 놀자!!',
   '',
   '율희 생일 너무 축하하고 앞으로도 서로 많이 의지하면서 올해 남은 시간 잘 보내자 사랑해❤❤',
-  '',
-  '율맹이를 많이많이 사랑하는 유맹이가',
-  
-  
+  '',  
 ]
 
 // 편지 마지막에 표시되는 서명
-export const letterSignature = '너를 사랑하는 사람이'
+export const letterSignature = '율맹이를 많이많이 사랑하는 유맹이가'
