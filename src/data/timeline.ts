@@ -11,15 +11,15 @@
 //   4) label은 정답을 맞힌 후(또는 디버깅 시) 참고할 수 있는 메모입니다.
 //      게임 중에는 화면에 노출되지 않습니다.
 
-import timeline1 from '../assets/photos/timeline-1.svg'
-import timeline2 from '../assets/photos/timeline-2.svg'
-import timeline3 from '../assets/photos/timeline-3.svg'
-import timeline4 from '../assets/photos/timeline-4.svg'
-import timeline5 from '../assets/photos/timeline-5.svg'
-import timeline6 from '../assets/photos/timeline-6.svg'
-import timeline7 from '../assets/photos/timeline-7.svg'
-import timeline8 from '../assets/photos/timeline-8.svg'
-import timeline9 from '../assets/photos/timeline-9.svg'
+import timeline1 from '../assets/photos/timeline1.jpg'
+import timeline2 from '../assets/photos/timeline2.jpg'
+import timeline3 from '../assets/photos/timeline3.jpg'
+import timeline4 from '../assets/photos/timeline4.jpg'
+import timeline5 from '../assets/photos/timeline5.jpg'
+import timeline6 from '../assets/photos/timeline6.jpg'
+import timeline7 from '../assets/photos/timeline7.jpg'
+import timeline8 from '../assets/photos/timeline8.jpg'
+import timeline9 from '../assets/photos/timeline9.jpg'
 
 export interface TimelinePhoto {
   id: string

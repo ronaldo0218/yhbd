@@ -25,10 +25,10 @@ export interface GalleryPhoto {
 
 // 👇 여기에 사진을 넣고 순서를 바꿔주세요 (배열 순서 = 화면에 보여지는 순서)
 export const galleryPhotos: GalleryPhoto[] = [
-  { src: gallery1, caption: '여기에 사진 설명을 입력하세요 (1)' },
-  { src: gallery2, caption: '여기에 사진 설명을 입력하세요 (2)' },
-  { src: gallery3, caption: '여기에 사진 설명을 입력하세요 (3)' },
-  { src: gallery4, caption: '처음으로 같이 간 부산 여행' },
-  { src: gallery5, caption: '전역 기념 전주 여행' },
-  { src: gallery6, caption: '여기에 사진 설명을 입력하세요 (6)' },
+  { src: gallery1, caption: '처음으로 같이 간 부산 여행' },
+  { src: gallery2, caption: '날씨는 추웠지만 마음은 따스했던 강릉여행' },
+  { src: gallery3, caption: '폐급전사와 특급꽃신' },
+  { src: gallery4, caption: '경주 한옥마을' },
+  { src: gallery5, caption: '느좋남녀의 성수나들이' },
+  { src: gallery6, caption: '인어공주와 바다코끼리가 친구들을 보러갔어요(잠실 아쿠아리움)' },
 ]
