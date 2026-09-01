@@ -27,8 +27,8 @@ export interface GalleryPhoto {
 export const galleryPhotos: GalleryPhoto[] = [
   { src: gallery1, caption: '처음으로 같이 간 부산 여행' },
   { src: gallery2, caption: '날씨는 추웠지만 마음은 따스했던 강릉여행' },
-  { src: gallery3, caption: '폐급전사와 특급꽃신' },
-  { src: gallery4, caption: '경주 한옥마을' },
+  { src: gallery3, caption: '폐급전사와 특급꽃신 전역!' },
+  { src: gallery4, caption: '경주에서 누가돌아왔~게' },
   { src: gallery5, caption: '느좋남녀의 성수나들이' },
   { src: gallery6, caption: '인어공주와 바다코끼리가 친구들을 보러갔어요(잠실 아쿠아리움)' },
 ]
